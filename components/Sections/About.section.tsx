@@ -32,7 +32,7 @@ const About: NextComponentType = () => {
       </div>
 
       <div className="hidden custom:block">
-        <a href="https://drive.google.com/file/d/1vKFsZ0FPB8izQwJV0T8F7MbM1OVbWfL9/view?usp=sharing"> <Image src=" https://drive.google.com/uc?export=view&id=1vKFsZ0FPB8izQwJV0T8F7MbM1OVbWfL9" width="300" height="300" className="rounded-full" alt="avatar"/> </a>
+        <a href="https://drive.google.com/uc?export=view&id=1vKFsZ0FPB8izQwJV0T8F7MbM1OVbWfL9"> <Image src="https://drive.google.com/uc?export=view&id=1vKFsZ0FPB8izQwJV0T8F7MbM1OVbWfL9" width="300" height="300" className="rounded-full" alt="avatar"/> </a>
       </div>
     </div>
   );
