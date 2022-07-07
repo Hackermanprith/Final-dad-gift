@@ -15,7 +15,7 @@ const About: NextComponentType = () => {
         </p>
 
         <p className="mt-4 text-gray-400">
-          I do software development and sometimes cook <br /> 
+          I do software and web development <br /> 
         </p>
 
         <Link href="#" passHref>
